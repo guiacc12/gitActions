@@ -1,7 +1,7 @@
 # gitActions
-Aula Devops GitActions
+Aula Devops GitActions - Funcionando.
 
-Teste
+
 ## Changelog
 - 2025-10-08 00:41 - Fix typo in permissions from 'whrite' to 'write'
 
